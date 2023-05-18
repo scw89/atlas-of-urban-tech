@@ -1,6 +1,6 @@
 ---
 title: Brainport Smart District 
-description: Lorem ipsum dolor sit amet
+description: Participatory smart city district in Helmond, Neatherlands.
 layout: case
 status: Draft
 type: case
