@@ -16,7 +16,6 @@ featured_alt: BSD UNStudio Render
 featured_credit: UNStudio
 tags: Smart City, Democractic, Data, University, Europe
 geography: ./brainport.geojson
-geography_caption: Optional Caption for the geograhic information.
 ---
 
 
@@ -46,7 +45,7 @@ The Brainport Smart District (BSD) is a collaboration between the Brainport Init
 
 **Self Sustaining**. In aiming to become a model community, achieving self-sustainability was identified as a mark of success for the project. If more food and energy can be produced locally each year, then the district will be on its way to achieving this ambitious goal.  
 
-**Collaborative **.  The community aims to actively include all stakeholders in the community building process, and this goal will help carefully and thoughtfully integrate contentious technology into the district. 
+**Collaborative **. The community aims to actively include all stakeholders in the community building process, and this goal will help carefully and thoughtfully integrate contentious technology into the district. 
 
 ## Technology Interventions
 <!--  Identify 3-5 specific technology-enabled interventions the project employs or proposes. The text should be around 75-125 words. Separate into more than 1 paragraph as needed. This is a good place to insert additional images, be sure to include captions identifying the source and make sure to not use copyrighted images. -->
@@ -55,10 +54,7 @@ The Brainport Smart District (BSD) is a collaboration between the Brainport Init
 
 **Local Food Production**. BSD aims to create extensive food production facilities within the district is perhaps the most ambitious goal of the BSD. Growing enough food for the planned 1500 homes by the end of the decade is a tall order, but plans are in place to realize this. Apps to manage food inventory, vertical greenhouses using aquaponics, urban farms integrated into mixed use neighborhoods and community gardens in the forest are some proposals to grow sustainably for the district. While project proposals are underway, such as those conducted by DGVGroup and cc-studio, the outcomes of feasibility studies are not yet available to the public, and therefore it is unclear how attainable these projects are. ![Urban Farm by cc-studio](urban_farm.png) ![Vertical Farm concept from DVGGroup](vert_farm.jpg)
 
-**Rethinking Data**.  
-
-Residents relationship with data is being reconsidered by approaching it as a valuable asset that can be utilized to enhance the quality of life for its residents while respecting privacy and ensuring data security. Some concepts to facilitate this include giving individuals ownership and control over their data. Residents will have the authority to decide how their personal data is collected, stored, and used.
-BSD also leverages data to inform decision-making processes. Smart infrastructure and sensors are proposed to be used to gather real-time data about various aspects of the district, such as energy consumption, waste management, water usage, transportation patterns and air quality. By collecting and analyzing these data the BSD can actively make evidence-based decisions to optimize the functioning of the district. 
+**Rethinking Data**. Residents relationship with data is being reconsidered by approaching it as a valuable asset that can be utilized to enhance the quality of life for its residents while respecting privacy and ensuring data security. Some concepts to facilitate this include giving individuals ownership and control over their data. Residents will have the authority to decide how their personal data is collected, stored, and used. BSD also leverages data to inform decision-making processes. Smart infrastructure and sensors are proposed to be used to gather real-time data about various aspects of the district, such as energy consumption, waste management, water usage, transportation patterns and air quality. By collecting and analyzing these data the BSD can actively make evidence-based decisions to optimize the functioning of the district. 
 
 ## Stakeholder
 <!--  Identify 3-5 key stakeholder organizations or groups. The text should be around 50 words, and include a link to the organization.-->
@@ -70,7 +66,7 @@ BSD also leverages data to inform decision-making processes. Smart infrastructur
 **Academics**. Academics play a significant role in the Brainport Smart District, contributing expertise to drive innovation and realize sustainable solutions. Collaborations with Eindhoven Technical University enhance the district's tech development and provide insights for future urban planning while offering a place for students to apply their knowledge post-graduation.
 [TU/e](https://brainporteindhoven.com/int/discover/campuses/tue)
 
-**Business Partners: The BSD engages with a range of business partners including technology companies like ASML, Philips, NXP and Signify. These partnerships support and shape the district's vision for what innovation looks like. For example, IOT innovations within the BSD are made possible by Philips designing the devices, NXP designing the integrated circuits, and ASML manufacturing the semiconductors. [Brainport Company List]( https://brainporteindhoven.com/int/for-you/work/companies)
+**Business Partners**. The BSD engages with a range of business partners including technology companies like ASML, Philips, NXP and Signify. These partnerships support and shape the district's vision for what innovation looks like. For example, IOT innovations within the BSD are made possible by Philips designing the devices, NXP designing the integrated circuits, and ASML manufacturing the semiconductors. [Brainport Company List]( https://brainporteindhoven.com/int/for-you/work/companies)
 
 **Brainport Eindhoven**.  Brainport Eindhoven provides expertise, support, and collaboration opportunities to the BSD, ensuring alignment with the broader regional goals of fostering innovation and economic development in Eindhvoen and its suburbs. Additionally, the BSD is a testing ground for much of the technology developed within the Brainport. [Brainport Eindhoven]( https://brainporteindhoven.com/int/)
 
@@ -107,7 +103,7 @@ In the following section I will summarize key themes from a presentation Ren Yee
 ## Open Questions
 <!--Identify 1-3 open question(s). What is uncertain, unclear, or still unresolved about this project? These can be 50 words or less. -->
 
-** What will project execution look like? While residents currently have outsized influence over other stakeholders, as more money gets invested and corporations gain interest in the project this may change. It will be interesting to see how priorities shift and if the ideals of the BSD are compromised as the development grows.
+** What will project execution look like?**. While residents currently have outsized influence over other stakeholders, as more money gets invested and corporations gain interest in the project this may change. It will be interesting to see how priorities shift and if the ideals of the BSD are compromised as the development grows.
 
 **Is this much participation is feasible?**. While their democratic approach gives voice to those often left out of city planning conversations, the tradeoff is this project is taking longer to get off the ground. Will this level of participation be continued once the project is a fully formed community? How will the ways residents are encouraged to participation change?
 
